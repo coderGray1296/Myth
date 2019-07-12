@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="myth_version_one:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/myth_version_one_jar</output-path>
+    <root id="root">
+      <element id="archive" name="myth_version_one.jar">
+        <element id="module-output" name="myth_version_one" />
+      </element>
+      <element id="library" level="project" name="jars" />
+      <element id="library" level="project" name="scala-sdk-2.11.12" />
+    </root>
+  </artifact>
+</component>

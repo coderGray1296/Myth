@@ -1,0 +1,90 @@
+Manifest-Version: 1.0
+Class-Path: xz-1.5.jar jta-1.1.jar jpam-1.1.jar guice-3.0.jar ivy-2.4.
+ 0.jar oro-2.0.8.jar ST4-4.0.4.jar avro-1.8.2.jar core-1.1.2.jar gson-
+ 2.2.4.jar hppc-0.7.2.jar snappy-0.2.jar antlr-2.7.7.jar jsp-api-2.1.j
+ ar okio-1.13.0.jar opencsv-2.3.jar py4j-0.10.7.jar xmlenc-0.52.jar gu
+ ava-14.0.1.jar janino-3.0.9.jar jetty-6.1.26.jar jline-2.14.6.jar jsr
+ 305-1.3.9.jar log4j-1.2.17.jar minlog-1.3.0.jar okhttp-3.8.1.jar stre
+ am-2.7.0.jar generex-1.0.1.jar jdo-api-3.0.1.jar paranamer-2.8.jar py
+ rolite-4.13.jar avro-ipc-1.8.2.jar commons-io-2.4.jar JavaEWAH-0.3.2.
+ jar javax.inject-1.jar jaxb-api-2.2.2.jar libfb303-0.9.3.jar lz4-java
+ -1.4.0.jar snakeyaml-1.15.jar stax-api-1.0-2.jar stax-api-1.0.1.jar a
+ opalliance-1.0.jar commons-cli-1.2.jar commons-net-3.1.jar derby-10.1
+ 2.1.1.jar httpcore-4.4.10.jar joda-time-2.9.3.jar jodd-core-3.5.2.jar
+  libthrift-0.9.3.jar objenesis-2.5.1.jar orc-shims-1.5.5.jar super-cs
+ v-2.2.0.jar zookeeper-3.4.6.jar activation-1.1.1.jar automaton-1.11-8
+ .jar chill-java-0.9.3.jar chill_2.11-0.9.3.jar commons-dbcp-1.4.jar c
+ ommons-lang-2.6.jar httpclient-4.5.6.jar javolution-5.5.1.jar slf4j-a
+ pi-1.7.16.jar xercesImpl-2.9.1.jar zjsonpatch-0.3.0.jar zstd-jni-1.3.
+ 2-2.jar antlr-runtime-3.4.jar commons-lang3-3.5.jar guice-servlet-3.0
+ .jar hadoop-auth-2.7.3.jar hadoop-hdfs-2.7.3.jar hk2-api-2.4.0-b34.ja
+ r jackson-xc-1.9.13.jar jetty-util-6.1.26.jar jtransforms-2.4.0.jar k
+ ryo-shaded-4.0.2.jar metrics-jvm-3.1.5.jar netty-3.9.9.Final.jar spir
+ e_2.11-0.13.0.jar aircompressor-0.10.jar antlr4-runtime-4.7.jar api-u
+ til-1.0.0-M20.jar breeze_2.11-0.13.2.jar commons-codec-1.10.jar commo
+ ns-pool-1.5.4.jar compress-lzf-1.0.3.jar jackson-core-2.6.7.jar level
+ dbjni-all-1.8.jar metrics-core-3.1.5.jar metrics-json-3.1.5.jar arrow
+ -format-0.10.0.jar arrow-memory-0.10.0.jar arrow-vector-0.10.0.jar co
+ mmons-math3-3.4.1.jar hadoop-client-2.7.3.jar hadoop-common-2.7.3.jar
+  hk2-utils-2.4.0-b34.jar javassist-3.18.1-GA.jar jersey-guava-2.22.2.
+ jar jul-to-slf4j-1.7.16.jar protobuf-java-2.5.0.jar snappy-java-1.1.7
+ .1.jar bonecp-0.8.0.RELEASE.jar commons-crypto-1.0.0.jar commons-dige
+ ster-1.8.jar curator-client-2.7.1.jar jackson-jaxrs-1.9.13.jar jersey
+ -client-2.22.2.jar jersey-common-2.22.2.jar jersey-server-2.22.2.jar 
+ machinist_2.11-0.6.1.jar parquet-format-2.4.0.jar RoaringBitmap-0.5.1
+ 1.jar scala-xml_2.11-1.0.5.jar shapeless_2.11-2.3.2.jar slf4j-log4j12
+ -1.7.16.jar spark-sql_2.11-2.4.1.jar stringtemplate-3.2.1.jar commons
+ -logging-1.1.3.jar curator-recipes-2.7.1.jar hadoop-yarn-api-2.7.3.ja
+ r hive-cli-1.2.1.spark2.jar hk2-locator-2.4.0-b34.jar javax.ws.rs-api
+ -2.0.1.jar jcl-over-slf4j-1.7.16.jar json4s-ast_2.11-3.5.3.jar orc-co
+ re-1.5.5-nohive.jar parquet-column-1.10.1.jar parquet-common-1.10.1.j
+ ar parquet-hadoop-1.10.1.jar scala-library-2.11.12.jar scala-reflect-
+ 2.11.12.jar spark-core_2.11-2.4.1.jar spark-hive_2.11-2.4.1.jar spark
+ -repl_2.11-2.4.1.jar spark-tags_2.11-2.4.1.jar spark-yarn_2.11-2.4.1.
+ jar xbean-asm6-shaded-4.8.jar api-asn1-api-1.0.0-M20.jar commons-comp
+ iler-3.0.9.jar commons-compress-1.8.1.jar commons-httpclient-3.1.jar 
+ hive-exec-1.2.1.spark2.jar hive-jdbc-1.2.1.spark2.jar javax.inject-2.
+ 4.0-b34.jar json4s-core_2.11-3.5.3.jar kubernetes-model-4.1.2.jar met
+ rics-graphite-3.1.5.jar netty-all-4.1.17.Final.jar parquet-jackson-1.
+ 10.1.jar scala-compiler-2.11.12.jar spark-mesos_2.11-2.4.1.jar spark-
+ mllib_2.11-2.4.1.jar apacheds-i18n-2.0.0-M15.jar arpack_combined_all-
+ 0.1.jar commons-beanutils-1.7.0.jar curator-framework-2.7.1.jar datan
+ ucleus-core-3.2.10.jar datanucleus-rdbms-3.2.9.jar jackson-core-asl-1
+ .9.13.jar javax.servlet-api-3.1.0.jar kubernetes-client-4.1.2.jar mac
+ ro-compat_2.11-1.1.1.jar parquet-encoding-1.10.1.jar spark-graphx_2.1
+ 1-2.4.1.jar spark-sketch_2.11-2.4.1.jar spark-unsafe_2.11-2.4.1.jar u
+ nivocity-parsers-2.7.3.jar hadoop-annotations-2.7.3.jar hadoop-yarn-c
+ lient-2.7.3.jar hadoop-yarn-common-2.7.3.jar jackson-databind-2.6.7.1
+ .jar javax.annotation-api-1.2.jar jersey-media-jaxb-2.22.2.jar json4s
+ -scalap_2.11-3.5.3.jar spark-kvstore_2.11-2.4.1.jar spire-macros_2.11
+ -0.13.0.jar avro-mapred-1.8.2-hadoop2.jar breeze-macros_2.11-0.13.2.j
+ ar commons-collections-3.2.2.jar commons-configuration-1.6.jar datanu
+ cleus-api-jdo-3.2.6.jar hive-beeline-1.2.1.spark2.jar jackson-annotat
+ ions-2.6.7.jar jackson-mapper-asl-1.9.13.jar json4s-jackson_2.11-3.5.
+ 3.jar spark-catalyst_2.11-2.4.1.jar spark-launcher_2.11-2.4.1.jar apa
+ che-log4j-extras-1.2.17.jar eigenbase-properties-1.1.5.jar flatbuffer
+ s-1.2.0-3f79e055.jar logging-interceptor-3.12.0.jar orc-mapreduce-1.5
+ .5-nohive.jar spark-streaming_2.11-2.4.1.jar validation-api-1.1.0.Fin
+ al.jar hive-metastore-1.2.1.spark2.jar mesos-1.4.0-shaded-protobuf.ja
+ r mysql-connector-java-5.1.47.jar osgi-resource-locator-1.0.1.jar par
+ quet-hadoop-bundle-1.6.0.jar spark-kubernetes_2.11-2.4.1.jar spark-ta
+ gs_2.11-2.4.1-tests.jar commons-beanutils-core-1.8.0.jar htrace-core-
+ 3.1.0-incubating.jar spark-mllib-local_2.11-2.4.1.jar calcite-core-1.
+ 2.0-incubating.jar jackson-dataformat-yaml-2.6.7.jar kubernetes-model
+ -common-4.1.2.jar jackson-module-paranamer-2.7.9.jar calcite-linq4j-1
+ .2.0-incubating.jar hadoop-yarn-server-common-2.7.3.jar jersey-contai
+ ner-servlet-2.22.2.jar spark-network-common_2.11-2.4.1.jar aopallianc
+ e-repackaged-2.4.0-b34.jar calcite-avatica-1.2.0-incubating.jar spark
+ -network-shuffle_2.11-2.4.1.jar apacheds-kerberos-codec-2.0.0-M15.jar
+  hadoop-mapreduce-client-app-2.7.3.jar jackson-module-scala_2.11-2.6.
+ 7.1.jar hadoop-mapreduce-client-core-2.7.3.jar hadoop-yarn-server-web
+ -proxy-2.7.3.jar spark-hive-thriftserver_2.11-2.4.1.jar scala-parser-
+ combinators_2.11-1.1.0.jar hadoop-mapreduce-client-common-2.7.3.jar j
+ ersey-container-servlet-core-2.22.2.jar hadoop-mapreduce-client-shuff
+ le-2.7.3.jar jackson-module-jaxb-annotations-2.6.7.jar hadoop-mapredu
+ ce-client-jobclient-2.7.3.jar scala-library.jar scala-xml_2.11-1.0.5.
+ jar scala-parser-combinators_2.11-1.0.4.jar scala-actors-migration_2.
+ 11-1.1.0.jar scala-actors-2.11.0.jar scala-swing_2.11-1.0.2.jar scala
+ -reflect.jar
+Main-Class: sterilizedmilk
+
